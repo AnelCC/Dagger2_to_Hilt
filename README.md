@@ -15,5 +15,5 @@ Dagger2 to hilt
 3. How to migrate components to Hilt and keep the existing Dagger code working.
 4. How to migrate scoped components.
 
-[Check here](https://github.com/AnelCC/DaggerCode/tree/Dagger_To_Hilt_01)
+[Check here](https://github.com/AnelCC/Dagger2Base_Code/pull/10/commits)
 
